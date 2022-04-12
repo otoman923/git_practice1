@@ -1,2 +1,6 @@
-public class Practice1 {// red is not tracked ,gray is not committed yet,green is committed
+public class Practice1 {// red is not tracked ,green is not committed yet,gray is committed
+
+    public static void main(String[] args) {
+
+    }
 }
